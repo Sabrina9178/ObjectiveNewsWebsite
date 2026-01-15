@@ -1,5 +1,6 @@
 # Objective News Website
 A workflow that leverages generative AI and clustering to produce **objective and unbiased** news summaries from multiple media outlets.
+The result is deployed on [Objective News Website](https://fao.zcr.mybluehost.me/).
 
 ### Project Overview
 Many news outlets today report with inherent bias, often presenting only a single perspective to influence audience opinions.
@@ -46,8 +47,6 @@ Generated neutral, multi-perspective reports using the **GPT API** with event cl
 Applied sentiment evaluation to ensure neutrality and reduce emotional bias.
 - **Regeneration**: Triggered if neutral score < 50%, up to 3 retries.
 
-#### Deployment
-- **Platform**: WordPress ([Objective News Website](https://fao.zcr.mybluehost.me/))
 
 ### Future Improvements
 - **Fake News Filtering and Review**: Integrate post-review with fact-checking reports and mark verified articles.
