@@ -1,5 +1,6 @@
 # Objective News Website
 A workflow that leverages generative AI and clustering to produce **objective and unbiased** news summaries from multiple media outlets.
+
 The result is deployed on [Objective News Website](https://fao.zcr.mybluehost.me/).
 
 ### Project Overview
